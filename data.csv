@@ -1,0 +1,747 @@
+"Dear Mike,
+
+We are excited to invite you to our upcoming event, which will take place on this weekend at the hall. The event will feature keynote speakers, workshops, and networking opportunities with professionals from some industries.
+
+As a valued member of our community, we would be honored to have you attend and contribute to the discussion. Please RSVP by next Monday so we can finalize our guest list.
+
+Thank you and we hope to see you there!
+
+Best regards,
+Li Hua",0
+"Subject: Re: who wants to start? 
+Date:	Sat, 10 Apr 1993 23:32:45 -0400
+From:	mike
+
+It's working here.  I have departed almost totally from the Bell Labs
+recommended configuration.  I'm running a hacked version of the
+terminal kernel on Sparcs, booting off local disc, using a remote Unix
+machine running a hacked ""u9fs"" as the file server.  Lots of things
+don't work yet.  I have a TODO list a light-year long.  I expect many
+of my problems would go away if we had the resources to dedicate a CPU
+server (to run daemons) and a file server.
+
+I'm interested in hearing how others are doing...
+",0
+"Subject: mass ack
+Date:	Wed, 14 Apr 1993 20:18:50 -0400
+From:	Scott Schwartz
+
+Greetings all.  This is a mass acknowledgement to everyone who has
+signed on to the plan9-fans list to date, now that influx has slowed
+down a bit.  (There are 75 people on the list right now.)
+
+One person has suggested that the name of the list be changed to
+9fans.  There's already an alias for that, in any event.
+
+The list is not being archived (that I know of).  If someone wants to
+do it, that would be great.
+
+-- Scott",0
+"Subject: Plan 9 utilities...
+
+Three things for your general edification/amusement:
+
+For those interested, there is a program called 9x in
+ftp.cs.su.oz.au:/matty which provides a remote graphical connection
+to a Plan 9 machine on an X terminal.  The code needs to be cleaned up
+(please don't look at it too much if you get it -- I will be mortified
+if you do), and it doesn't support the polysegment primitive as yet,
+but it's useful if you can get it to work nevertheless.  You will
+need the libXg library from research.att.com (the one with the sam
+distribution) to build it.
+
+Secondly, on the same site in /matty/unicode, there are utf versions
+of libXg which will, when compiled with sam enable it to edit utf
+encoded files, i.e, files containing Runes encoded as Plan 9 encodes
+them using the utf-2 encoding.  The libXg and libframe libraries are
+both needed as well as the font archive.
+
+There is also a program 9term which may be used a replacement for
+xterm and which provides a 8.5 (8 1/2) like window for Unix: editable
+command line and output, cut/snarf/send, and if you compile with the
+right libraries, utf facilities.  This is fairly stable.  It only
+works on a few systems at present so if you port it please tell me.
+It's still a beta version but that's probably because I'm lazy and
+haven't done a last touch up more than anything else.  I've not
+used xterm in any major fashion since last October or so and having
+the Plan 9 `look and feel' under Unix is a big win (plug, plug!).
+The current version in the directory is 1.1.1 but 1.2 should be there
+in the next few days.
+
+					Matty.",0
+"Subject: Re: Plan 9 beginner's questions
+
+To shut down a terminal ctrl-t ctrl-t r.  This should be fine if it's
+diskless.  If it isn't - no idea.  To cancell a process (delete or
+numlock on some keyboard) will kill things in a window's process group.
+This is in the 8.5 manual page.  To stop and resume text output: put
+the window into non-scroll mode and use the page-down/VIEW key (again
+check the manual pages like 8.5 and keyboard(6)), its altgraph on some
+keyboard and the arrow keys on others.  This will scroll half a page.
+Output is blocked while it can't be displayed, i.e., while it's off
+the bottom of the page.
+
+					Matty.",0
+"In the good old days, copyright notices meant something.
+The latest instance of their devaluation is Matty's posting
+in a public place of a number of copyrighted fonts from
+the Plan 9 distribution (itself a violation of the copyright)
+without reproducing the notice (which would be our
+request to anyone who asked to copy them).
+
+For those interested in maintaining the principle of
+letting artists maintain ownership of their work, the
+fonts Matty distributed should be stored with the
+following notice:
+
+The fonts in this directory are based on fonts
+Copyright (c) 1985 Bigelow & Holmes Inc.
+
+This text is (with a substitution for (c)) the contents of
+/lib/font/bit/(pelm,lucm)/NOTICE
+
+-rob
+",0
+"Subject: Dumb, fundamental question.
+
+Is Plan 9 primarily intended as an operating system to do research on, or into?
+
+Many of the postings on comp.os.research which run 'Plan 9 should have 
+interesting feature x' seem to cast (recast?) Plan 9 as a operating system to
+which exists for the purpose of investigating certain operating system ideas.
+The impression I have from the Plan 9 literature so far seems to indicate that
+the emphasis is more on creating a usable system, given certain ideas about
+operating system design, namespaces and so on. I'm not asking whether Plan 9
+is a pure research system or a pure production system - just which is considered
+more important.
+
+Geoff.",0
+"Subject: Re: Fonts and unicode distribution... 
+Date:	Wed, 28 Apr 1993 14:02:46 -0400
+From:	mike
+
+Although fonts themselves cannot be protected, it's likely
+that the actual data file representing a particular instance
+of a font is protectible.
+
+For example, I dare you to redistribute one of Adobe's Type I
+data files.
+
+Consequently, the interesting questions regarding the Plan 9
+fonts are:
+
+(1) How did Bell Labs derive the bitmap data?  If they digitized
+    the fonts themselves from, say, blown up photographs, they
+    are on safe legal ground.  Likewise if they constructed the
+    fonts by hand with a bitmap editor.  (Given that these fonts
+    look awfully reminescent of the ""blit"" fonts, I suspect that
+    they date to the early 1980's and were constructed by hand.)
+
+(2) How does Bell Labs feel about us using their bitmap data
+    files?
+
+The answer to #2 seems to be ""Fine, so long as the copyright
+notice is preserved on all copies.""
+",0
+"Subject: Thank you for your order
+
+Dear Customer,
+
+Thank you for choosing our product and placing an order on our website. We will process your order as soon as possible and provide you with a tracking number after shipping.
+
+If you have any questions or need further assistance, please feel free to contact us. We are happy to provide you with quality service.
+
+Best regards,
+The Amazing Shop",0
+"Subject: Invitation to our upcoming event
+
+Dear Bob,
+
+We are excited to invite you to our upcoming event. The event will take place on Wednesday at our house. It will be a great opportunity to meet industry leaders and learn about the latest trends and developments in our field.
+
+We would be delighted if you could join us for this event. Please RSVP by tomorrow to confirm your attendance.
+
+Thank you for your time and consideration. We look forward to seeing you soon.
+
+Best regards,",0
+"Subject: Follow-up on our meeting
+
+Dear Alice,
+
+Thank you for taking the time to meet with me earlier this week. It was great to discuss ""How to work"" with you and learn more about your business.
+
+As we discussed, I am following up with some additional information that I think might be helpful for you. Please find attached a document with some key statistics and case studies related to our product.
+
+Please let me know if you have any further questions or if there is anything else I can assist you with. I look forward to hearing back from you.
+
+Best regards,",0
+"Subject: Lunch meeting tomorrow
+
+Hi all,
+
+Just a quick reminder that we have a lunch meeting scheduled tomorrow at 12 pm in the conference room. We'll be discussing the latest updates on the project, so please come prepared with any questions or concerns you may have.
+
+Also, please let me know if you have any dietary restrictions and we'll make sure to order something that accommodates everyone.
+
+Looking forward to seeing you all tomorrow!
+
+Best,
+John",0
+"Subject: Request for information
+
+Dear Steve,
+
+I hope this email finds you well. I am writing to request some information. I am currently researching this area and would greatly appreciate any insights or recommendations you may have.
+
+If you have some time, I would love to schedule a call or meeting to discuss this further. Please let me know if this works for you, and if so, what times are most convenient.
+
+Thank you for your time and consideration.
+
+Best regards,",0
+"Subject: Thank you for your hospitality
+
+Dear Johnson,
+
+I wanted to take a moment to thank you for your wonderful hospitality during my recent visit. Your kindness and generosity made my stay memorable and enjoyable.
+
+I hope to return the favor someday and show you the same hospitality when you visit my city. Please let me know if you have any plans to visit China in the near future.
+
+Once again, thank you for everything. It was a pleasure to spend time with you.
+
+Best wish,",0
+"Subject: Invitation to dinner party
+
+Dear Peter,
+
+I would like to invite you to a dinner party that I am hosting at my house at 9:00. It will be a casual and fun evening with good food, drinks, and company.
+
+I hope you can join us for the event. Please let me know if you have any dietary restrictions or preferences so that I can plan accordingly.
+
+Looking forward to seeing you soon.
+",0
+"Subject: Follow-up on our project
+
+Dear Michael,
+
+Thank you for taking the time to meet with me last week to discuss our project. I found our conversation to be very insightful, and I appreciate your expertise and perspective.
+
+As we discussed, I will follow up with some additional information that I think might be helpful for our project. Please find attached a document with some key statistics and case studies related to our goals.
+
+Please let me know if you have any further questions or if there is anything else I can assist you with. I look forward to hearing back from you.
+
+Best regards,
+
+Lauren",0
+"Subject: Happy birthday!
+
+Dear Sarah,
+
+I wanted to take a moment to wish you a very happy birthday! I hope you have a wonderful day filled with love, laughter, and lots of cake.
+
+It's been a pleasure to know you over the years, and I am grateful for your friendship. Here's to another year of amazing adventures and good times.
+
+Cheers,
+
+Emily",0
+"Dear Friend,
+
+I wanted to tell you about this new app I've been using recently that I think you'll really enjoy. It's called Bikenow, and it's been a game changer for me.
+
+It is an innovative new app that allow you to bike freely. It's incredibly user-friendly and easy to navigate, making it perfect for people who may not be very tech-savvy.
+
+One of the things I love about Bikenow is its unique. This has really helped me develop good habits. I also appreciate how convenient it is.
+
+The app has a sleek and modern design, which makes it a pleasure to use. Plus, the developers are constantly adding new features and updates, so it's always improving.
+
+If you're looking for a new app to help you [what the app can help you do], I highly recommend checking out it. I think you'll love it as much as I do!
+
+Let me know what you think if you decide to give it a try.
+
+Best regards,
+Zhong Hua",0
+"Subject: Plan Your Dream Vacation Today
+
+Are you tired of your daily routine and in desperate need of a change of scenery? Why not plan your dream vacation today and experience all the world has to offer!
+There's nothing quite like traveling to a new place and immersing yourself in the local culture. Whether you're looking to relax on a sunny beach, explore historic landmarks, or try new foods, there's a destination out there for everyone.
+
+To help you plan your dream vacation, we've put together some amazing travel packages that include [describe travel package options]. Our packages offer the best in accommodations, transportation, and activities, so you can relax and enjoy your trip to the fullest.
+
+And don't worry about the logistics of planning your trip - our team of experts is here to help you every step of the way. We can help you with everything from booking flights and accommodations to planning your itinerary and finding the best restaurants.
+
+So why wait? Start planning your dream vacation today and make memories that will last a lifetime. Visit our website to learn more about our travel packages and begin your journey.
+Sincerely,
+The Travel Experts",0
+"Sure, here is an email on the topic of fitness:
+
+Subject: Get Fit and Feel Great with Our Online Workouts
+
+Dear [Name],
+
+Are you looking to get in shape and improve your health but struggling to find the time to go to the gym? We have the solution for you - our online fitness program!
+
+Our program offers a variety of workouts that you can do from the comfort of your own home, no gym required. Whether you're a beginner or a seasoned fitness enthusiast, our workouts are designed to help you reach your goals and improve your overall health.
+
+We have a wide range of workouts to choose from, including [describe the types of workouts available]. Plus, our trainers are certified and experienced, so you can trust that you're getting high-quality instruction and guidance.
+
+One of the best parts about our online fitness program is that you can do it on your own schedule. Whether you prefer to work out in the morning, afternoon, or evening, our program is flexible enough to fit your needs.
+
+Don't let a busy schedule hold you back from achieving your fitness goals. Sign up for our online fitness program today and start feeling great in no time!
+
+Sincerely,
+
+The Fitness Experts",0
+"Subject: Master the Art of Cooking with Our Online Classes
+
+Dear [Name],
+
+Are you tired of cooking the same old recipes and looking to expand your culinary skills? Our online cooking classes can help you become a master in the kitchen and impress your family and friends with delicious, gourmet meals.
+
+Our classes are taught by professional chefs and cover a wide range of cooking styles, from Italian cuisine to Asian fusion. Whether you're a beginner or an experienced cook, our classes are designed to help you take your cooking skills to the next level.
+
+One of the best parts about our online classes is that you can learn at your own pace and on your own schedule. You can watch the videos as many times as you need to, and you can pause and rewind to make sure you fully understand each step.
+
+Our classes also come with printable recipes and shopping lists, making it easy to follow along and prepare the dishes in your own kitchen.
+
+So why not take your cooking skills to the next level and impress your loved ones with delicious, gourmet meals? Sign up for our online cooking classes today and become a master in the kitchen!
+
+Sincerely,
+
+The Cooking Experts",0
+"Subject: Thank you for your order
+
+Dear Bills,
+
+Thank you for your recent order from our online store. We have received your payment and your order is being processed.
+
+You can expect your order to arrive within the next 5-7 business days. If you have any questions or concerns about your order, please don't hesitate to contact us.
+
+Thank you for your business and we hope you enjoy your purchase!
+
+Best regards,
+The Online Store",0
+"Subject: Reminder: Team meeting tomorrow
+
+Dear team,
+
+Just a friendly reminder that we have our weekly team meeting tomorrow at 10am in the conference room. We will be discussing the progress of our current projects and any updates from management.
+
+Please come prepared with any updates or questions you may have. If you are unable to attend, please let me know as soon as possible.
+
+Thank you,
+Jack",0
+"Subject: Invitation to dinner party
+
+Hello Steve,
+
+I would like to invite you to a dinner party at my house next Friday. The party will start at 7pm and there will be plenty of food and drinks.
+
+Please let me know if you can make it by Wednesday so I can make the necessary arrangements. I hope to see you there!
+
+Best regards,
+Bety",0
+"Meeting reminder
+
+Hi Jane,
+
+This is a friendly reminder that we have a meeting scheduled for tomorrow at 10 a.m. to discuss the quarterly report. Please make sure you have prepared your slides and notes before the meeting.
+
+You can join the meeting using this link: https://company.zoom.us/j/123456789
+
+If you have any questions or concerns, please let me know.
+
+Best regards,
+John",0
+"Subject: Happy birthday!
+
+Hi Bob,
+
+I just wanted to wish you a very happy birthday and hope you have a wonderful day. You are such a great friend and I'm so glad we met.
+
+I have a surprise for you. Check your mailbox later today. I think you'll like it. ;)
+
+Love,
+Alice",0
+"Subject: Thank you for your order
+
+Hello Bob,
+
+Thank you for shopping with us. You ordered ""The Hitchhiker's Guide to the Galaxy"". We'll send a confirmation when your item ships.
+
+Your order details
+Order #123-4567890-1234567
+Placed on October 30, 2023
+Total: $12.99
+
+Delivery estimate: November 5, 2023
+
+Track your package
+
+We hope to see you again soon.
+
+Amazon.com",0
+"The mailing list I queried about a few weeks ago is now up and
+running.  I have also set up an archive server; see below.  The
+following is the official welcome to the list message at the moment.
+
+Joe Buehler
+
+--------------------
+
+This mailing list is for people who desire serious, orthodox
+discussion of the Roman Catholic religion.  I assume that it will
+cater mainly to Catholics, but everyone else is welcome, provided they
+operate within the below guidelines.  My own interests have a
+doctrinal bent, but I'm certainly not going to limit this list to just
+that sort of discussion.
+
+Having participated in USENET religion groups for about 5 years now,
+one of my primary observations about Catholics on the net is that they
+do not know their religion very well.  My hope is that this list might
+help remedy this problem to some extent.  I would like to make this a
+net resource available for Catholics who want to know more about their
+religion.
+
+As far as moderation policy goes: The Catholic Church is not a
+democracy, it's a monarchy subject to a divinely given constitution.
+I don't set the rules in the Church, neither does my parish priest,
+nor does my bishop, nor does the Pope.  Everyone has to adhere to the
+way Christ set things up.  I think it follows that it's not really
+appropriate for someone to call himself a Catholic and argue with this
+state of affairs.  If you want to be Catholic, it's simple enough, you
+have to follow the teaching of the Church.
+
+The moderation policy will reflect this way of thinking: there are
+plenty of other places on the net where Catholic doctrine can be
+freely attacked!  If in doubt, you can always subscribe, and see
+whether the list is to your taste.
+
+Besides the mailing list, there are a few other things that may be of
+interest:
+
+- I have set up an archive server that we can put interesting things
+in.  (It doesn't have anything in it at the moment except some UNIX
+software useful for such endeavors.)  Sorry, guys, but nothing that's
+copyrighted goes into it!
+
+- I am planning on setting up a quotation server that can email
+periodic interesting citations from the principal sources of Catholic
+doctrine.  (Not done yet.)
+
+- I have obtained permission from the English language publishers of
+the Italian Catholic magazine ""30 Days"" to take material from their
+magazine.  I intend to scan some of the more interesting pictures
+(ever seen a Cristero?  or St. Pius X?) and put them in the archives,
+and also post extracts from some of the more interesting articles.
+(It's a European magazine, and is of generally higher quality than
+American Catholic material.  In my opinion...)
+
+If you have any questions, would like to subscribe, etc., send email
+to
+
+	catholic@sarto.budd-lake.nj.us",0
+"Subject: Claim your prize now!
+
+Dear valued customer,
+
+Congratulations! You have been selected to receive a prize worth $1000. To claim your prize, please click the link below and enter your personal information.
+
+Come to our website!
+
+Please note that this offer is only valid for a limited time, so act fast to claim your prize!
+
+Best regards,
+
+The Prize Team",1
+"Subject: Three Steps to the Software You Need at the Prices You Want
+Date: Sat, 8 May 1993 21:07:49 -0400
+
+$149.95
+More Info >>
+
+Bestsellers
+ Microsoft Office Professional Edition 2003
+Rating:  6 reviews
+Retail price: $550.00
+
+You save: $480.05 (87%)
+Our price: $69.95
+    [Add to cart]
+
+ Microsoft Windows XP Professional
+Rating:  8 reviews
+Retail price: $200.00
+
+You save: $150.05 (75%)
+
+Our price: $49.95
+    [Add to cart]
+
+ Adobe Photoshop CS2 V 9.0
+Rating:  3 reviews
+Retail price: $599.00
+
+You save: $529.05 (88%)
+
+Our price: $69.95
+    [Add to cart]",1
+"FROM: THE LOTTERY COORDINATOR, TRIPPLE WINS LOTTERY
+INTERNATIONAL PROMOTIONS/PRIZE AWARD DEPARTMENT
+
+Dear Recipient,
+
+
+Congratulations to you as we bring to your notice, the results of the First
+Category draws of TRIPPLE WINS INTERNATIONAL GAMES. We are happy to inform
+you that you have emerged a winner under the First Category, which is part
+of our promotional draws. The draws were held prior to your notification.
+
+all Participants were selected through a computer ballot system drawn from
+2,500,000 names/email addresses of individuals and companies from Africa,
+America, Asia, Australia, Europe, Middle East, and Oceania as part of our
+International Promotions Program.
+
+You have therefore been awarded a lump sum pay out of  1.2 Million
+euros(One Million, Two Hundred Thousand Euros) each, which is the winning
+payout for Category"" A"" winners. This is from the total prize money of
+10,000,000 Euros shared among the 6 Winners in this category.
+This funding was made possible by Microsoft international to support the
+use of Microsoft software and improve Globalization in conjunction with
+European's Lotteries.
+
+CONGRATULATIONS!!!
+
+Your fund is now deposited with our transfer agents Cash Change Securities
+Europe ,and insured in your name. In your best interest and also to avoid
+mix up of numbers and names of any kind, we request that you keep the entire
+details of your award strictly from public notice until the process of
+Beneficiary Certificate Ownership Winning Notification, Stamp duties and
+re-activation of Account of your prize /money remitted in readiness of the
+subsequently onward transfer into your nominated Bank Account. This is in
+conformity with the latest transfer regulation signed by the Organization /
+Netherlands Government since this is part of our Security protocol measures
+to avoid double claiming and unwarranted abuse of this program by some
+participants 
+
+We also wish to bring to your notice our end of year premium stakes draw
+where you stand a chance of winning up to 25 Million Euros ; we hope that
+with a part of your prize you will participate in it.
+
+To file for your claim, please contact your fiducially agent
+ Mr. Paul Joanson
+Of The Euro Accredited Payment Agent Immediately 
+
+TEL: +31 627 200 037 
+
+FAX: +31 847 180 870",1
+"Subject: Erectile issues? No qualms. Fix it. stress Daisy
+
+
+What we are referring to of course is the wonderful ""blue pill"" for erection difficulties everyone is talking about. We
+not only carry it, but we do at 1.56 cents each.
+
+Take a peek at:
+
+http://comptonu8iji6zoh8hhmuunhccnhcuu.tritaphki.com/
+
+Enjoy!
+
+Sincerely,
+
+Monica
+Customer Service Team",1
+"Subject: Fw: This is something you had to see.
+Date: Sat, 11 Dec 1993 19:03:41 -0800
+
+FAST    TRACK   DEGREE   PROGRAM 
+
+Obtain the degree you deserve, based on your present knowledge and life experience.
+
+A prosperous future, money earning power, and the Admiration of all.
+
+Deg rees from an Established, Pres tigious, Leading Institution.
+
+Your Degree will show exactly what you really can do.
+
+Get the Job, Promotion, Business Opportunity
+
+and Social Advancement you Desire!
+
+Eliminates classrooms and traveling.
+
+in the field of your expertise
+
+Professional and affordable
+
+Call now - your Grad uation is a phone call away.
+
+Please call:
+1-206-666-5510
+Calls returned promptly",1
+"My Good Friend,
+
+Due to your honesty, I am convinced that you would be capable to provide me with a solution. I am Mr.Kofi Anyin of KA Legal Consultancy Services, Accra Ghana. I am writing on behalf of my late client Mrs. Andr Eich, a British Citizen, a successful businesswoman base in Accra Ghana who died unfortunately with her family (Her Husband and two kids) in an air mishap in July 2000. 
+
+I am contacting you simply to assist in claiming her deposited assets valued at US$30M before it gets confiscated by the Netherlands Bank. The Bank has written me as her consultant and issued a final notice to provide any of her relatives or have the assets channel to the Netherlands National Treasury as unclaimed fund within the next 5 working days. 
+
+Since there was no relatives or next of kin left in our record, I seek your consent to present you as her only surviving relative, so that this funds can be paid to you. Therefore, on receipt of your _expression of interest (EOI),I have agreed that you will inherit 45% of this fund for your help and sincerity,45% for me while 10% for the refunds of processing expenses and to pay tax in your country(if any) upon successful confirmation of this funds in your bank account. Thereafter, all the related legal documents will be destroyed and we part ways. 
+
+My aim is to usher you in legally as her relative (since I have been unsuccessful in locating her relatives) so that the fruit of her labour will not be in vain. All I require from you is your honest cooperation to enable us see this transaction through. I guarantee that this will be executed under a legitimate arrangement that will protect you from any breach of law. Please urgently call if you can handle it. 
+
+Best Regards,
+
+Mr. Kofi Anyin",1
+"A Prize for you. Never hesitate!
+
+URGENT! 
+
+You have won a 1 week FREE membership in our 100,000 Prize Jackpot! Txt the word: CLAIM to No: 81010
+Or just click the link below and login with your account password.
+",1
+"Subject: Don't Miss Out on Our Spring Sale
+
+Dear valued customer,
+
+Spring is here and so is our big spring sale! We are excited to offer our customers 20% off on all of our products, including our newest arrivals. Don't miss out on this great opportunity to upgrade your wardrobe or find the perfect gift for a loved one.
+
+Visit our website now and use the code SPRING20 at checkout to redeem your discount. Hurry, this offer ends soon!
+
+Best regards,
+
+The Fashion Co.",1
+"Subject: You've been selected for a special prize!
+
+Dear Jack,
+
+We are pleased to inform you that you have been selected to receive a special prize as part of our customer appreciation program.
+
+Your prize includes the iPhoneX. To claim your prize, simply visit our website and enter the code SPECIALPRIZE at checkout. Your discount will be applied automatically.
+
+This offer is valid for a limited time only, so don't wait to claim your prize!
+
+Thank you for being a valued customer and we look forward to serving you in the future.
+
+Sincerely,
+
+The Prize Co.",1
+"Subject: Free Bitcoin Today and Reap the Rewards
+
+Hello Sir,
+
+Are you looking to invest your money in a reliable and profitable asset? Look no further than Bitcoin!
+
+Bitcoin is a decentralized digital currency that has seen tremendous growth in recent years. By investing in Bitcoin, you have the potential to see significant returns on your investment.
+
+Don't miss out on this opportunity to grow your wealth. Visit our website to learn more about Bitcoin and our investment options.
+
+Come to freecoin.com to earn your own money and transfer them to your pocket. We offer a variety of options.
+
+Sincerely,
+
+The Bitcoin Investment Co.",1
+"Subject: 100% Guaranteed Weight Loss
+
+Lose weight fast with our amazing weight loss program! Our proven system will help you lose up to 10 pounds per week without dieting or exercise. That's right, you can eat whatever you want and still lose weight.
+
+We guarantee our program will work for you or your money back. Don't wait, start losing weight today and feel great!
+
+Best regards,
+Weight Loss Team",1
+"Subject: Make money fast
+
+Dear friend,
+
+I am writing to introduce you to a great opportunity that can make you a lot of money. It is a guaranteed program that will give you financial freedom in no time. You can make up to $10,000 per month working from home. All you have to do is follow our proven system and you will start making money in no time.
+
+Don't wait, sign up today and start making money fast!
+
+Best regards,
+John",1
+"Subject: Cheap watches for sale!
+
+Hello Sir,
+
+Are you looking for a stylish and affordable watch? Look no further! We have a huge selection of watches at unbeatable prices.
+
+Our watches come in a variety of styles and colors to suit any taste. Plus, we offer free shipping on all orders.
+
+Don't miss this opportunity to get the watch of your dreams at a fraction of the cost. Click on the link below to see our collection.
+
+
+Best regards,
+The Watch Shop",1
+"Subject: Exclusive offer for you!
+
+Earn it!
+
+We are pleased to inform you that you have been selected to receive an exclusive offer. You have the opportunity to win a luxury vacation package worth $10,000! To participate, all you need to do is click on the link below and follow the instructions.
+
+Don't miss this chance to enjoy a once-in-a-lifetime experience. Click now!
+
+Best regards,
+The Vacation Team",1
+"Urgent!!! You have won a prize!!!
+
+Dear Friend,
+
+Congratulations!!! You have been selected as one of the lucky winners of our online lottery. You have won a cash prize of $10,000,000!!!
+
+To claim your prize, you need to confirm your identity and bank details by clicking on this link: http://lottery.com/verify
+
+Hurry up!!! This offer is valid only for 24 hours. Don't miss this chance to become rich!!!
+
+Sincerely,
+Lucky Winner",1
+"Subject: Your account has been hacked!
+
+Dear Bob,
+
+We have detected some unusual activity on your Outlook account. Someone has tried to log in from an unknown device and location.
+
+To protect your account, we have temporarily locked it. You need to verify your identity and reset your password as soon as possible.
+
+Please click on this link and follow the instructions: http://outlook.com/reset
+
+Do not ignore this message or your account will be permanently deleted.
+
+Sincerely,
+Security Alert",1
+"Subject: You have been chosen!
+
+Dear Bob,
+
+You have been chosen as one of the lucky winners of our Netflix giveaway. You have won a free one-year subscription to Netflix!
+
+All you have to do is click on this link and enter your credit card details to activate your prize: http://netflix.promo.com/claim
+
+Don't miss this opportunity to enjoy unlimited movies and shows for free!
+
+This offer expires in 48 hours, so hurry up and claim your prize now!
+
+Sincerely,
+Netflix",1
+"Subject: [fwd] Market Trade Watch
+
+The OIL sector is going crazy. This is our weekly gift to you!
+
+Get KKPT First Thing, This Is Going To Run!
+
+Check out Latest NEWS! 
+
+KOKO PETROLEUM (KKPT) - This is our #1 pick for next week!
+Our last pick gained $2.16 in 4 days of trading.
+ 
+Current Price: $0.90
+5 day expected price $3.25
+This has been a great producer in our last PR Campaign
+
+KOKO Announces Corsicana Re-work Project and Production Results for its Barnett Shale Wells
+Thursday April 6, 3:51 pm ET 
+
+LAS VEGAS, NEVADA--(MARKET WIRE)--Apr 6, 2006 -- KOKO Petroleum, Inc. (Other OTC:KKPT.PK - News) -
+KOKO Petroleum, Inc. announced today that its operator for the Corsicana Field, JMT Resources, Ltd. (""JMT"") will commence a re-work program on its Pecan Gap wells in the next week. The re-work program will consist of drilling six lateral bore production strings from the existing well bore. This process, known as Radial Jet Enhancement, will utilize high pressure fluids to drill the lateral well bores, which will extend out approximately 350' each.
+
+JMT has contracted with Well Enhancement Services, LLC (www.wellenhancement.com) to perform the rework on its Pierce nos. 14 and 14a. A small sand frac will follow the drilling of the lateral well bores in order to enhance permeability and create larger access to the Pecan Gap reservoir. Total cost of the re-work per well is estimated to be approximately $50,000 USD.
+
+Well Enhancement Services has reported increases in production for wells where the lateral was successfully placed. Average increases are reported to be from 300% to 1000%, which justify the incremental cost associated with the re-work project. Assuming positive results, JMT will re-work the second well, which is adjacent to the first and schedule the rework on its remaining Pecan Gap wells, which currently total 8.
+
+KOKO announces that JMT has completed drilling the 4th pilot well for the Corsicana Flood Project. We plan on drilling 7 production wells and 6 injection wells prior to the implementation of the alkaline-surfactant-polymer technology.",1

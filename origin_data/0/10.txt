@@ -1,0 +1,13 @@
+Subject: Re: who wants to start? 
+Date:	Sat, 10 Apr 1993 23:32:45 -0400
+From:	mike
+
+It's working here.  I have departed almost totally from the Bell Labs
+recommended configuration.  I'm running a hacked version of the
+terminal kernel on Sparcs, booting off local disc, using a remote Unix
+machine running a hacked "u9fs" as the file server.  Lots of things
+don't work yet.  I have a TODO list a light-year long.  I expect many
+of my problems would go away if we had the resources to dedicate a CPU
+server (to run daemons) and a file server.
+
+I'm interested in hearing how others are doing...

@@ -1,0 +1,14 @@
+Subject: Your account has been hacked!
+
+Dear Bob,
+
+We have detected some unusual activity on your Outlook account. Someone has tried to log in from an unknown device and location.
+
+To protect your account, we have temporarily locked it. You need to verify your identity and reset your password as soon as possible.
+
+Please click on this link and follow the instructions: http://outlook.com/reset
+
+Do not ignore this message or your account will be permanently deleted.
+
+Sincerely,
+Security Alert

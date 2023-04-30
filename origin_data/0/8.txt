@@ -1,0 +1,18 @@
+Subject: Thank you for your order
+
+Hello Bob,
+
+Thank you for shopping with us. You ordered "The Hitchhiker's Guide to the Galaxy". We'll send a confirmation when your item ships.
+
+Your order details
+Order #123-4567890-1234567
+Placed on October 30, 2023
+Total: $12.99
+
+Delivery estimate: November 5, 2023
+
+Track your package
+
+We hope to see you again soon.
+
+Amazon.com
