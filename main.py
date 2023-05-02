@@ -9,7 +9,7 @@ X_test = ['']
 with open('test.txt', 'rb') as f:
     X_test = [f.read().decode()]
 
-# 训练贝叶斯分类器
+# 读取分类器模型
 classifier = NaiveBayes()
 with open('model.pkl', 'rb') as f:
     classifier = pickle.load(f)

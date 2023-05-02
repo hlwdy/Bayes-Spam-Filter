@@ -307,6 +307,39 @@ So why not take your cooking skills to the next level and impress your loved one
 Sincerely,
 
 The Cooking Experts",0
+"Subject: Order Confirmation - #[Order Number]
+
+Dear [Name],
+
+Thank you for your recent purchase from our online store. We are excited to inform you that your order has been received and is currently being processed.
+
+Order Details:
+
+Order Number: #[Order Number]
+Order Date: [Order Date]
+Shipping Address: [Shipping Address]
+
+Product(s) Ordered:
+
+[Product 1 Name], Quantity: [Product 1 Quantity], Price: [Product 1 Price]
+[Product 2 Name], Quantity: [Product 2 Quantity], Price: [Product 2 Price]
+Subtotal: [Subtotal]
+Shipping: [Shipping Cost]
+Tax: [Tax]
+Total: [Total]
+
+Payment Details:
+Payment Method: [Payment Method]
+Card Number: [Last 4 Digits of Card Number]
+Expiration Date: [Card Expiration Date]
+
+We will send you a separate email with tracking information once your order has shipped. If you have any questions or concerns about your order, please do not hesitate to contact us.
+
+Thank you for your business, and we look forward to serving you again in the future.
+
+Sincerely,
+
+The Online Store Team",0
 "Subject: Thank you for your order
 
 Dear Bills,
@@ -319,6 +352,153 @@ Thank you for your business and we hope you enjoy your purchase!
 
 Best regards,
 The Online Store",0
+"Your Recovery Code
+
+Your code is: 123456. Use it to disable your password and access your Telegram account.
+
+If you didn't request to restore access to your account, go to Telegram Settings > Devices (or Privacy & Security > Active Sessions) and terminate any sessions you don't recognize.
+
+Yours,
+The Telegram Team",0
+"Subject: Verify Your Email to Reset Your Password
+
+Hello,
+
+You recently asked to reset your password for your account on our app. To complete the process, we need to verify your email address.
+
+Please enter the following code in the app to confirm your email address:
+
+987654
+
+This code will expire in 15 minutes.
+
+If you did not request a password reset, please disregard this email.
+
+Thanks, The App Support",0
+"Subject: Important: Reset Your Password
+
+Hi there,
+
+We noticed that someone tried to sign in to your account from an unfamiliar device. To protect your account, we have temporarily locked it until you can update your password.
+
+Please follow these steps to reset your password and regain access to your account:
+
+Go to https://www.example.com/account
+Click on ""Forgot Password"" and enter your email address.
+Check your inbox for an email with a link to reset your password.
+Create a strong and unique password that you have not used before.
+Sign in to your account with your new password and review your security settings.
+If you have any questions or need further assistance, please contact us at support@example.com or call us.
+
+We apologize for any inconvenience this may have caused you.
+
+Best regards,
+The Security Team",0
+"Reset Your Password Here
+
+This link will expire in 24 hours.
+
+https://www.example.com/reset-password?token=123456789
+
+For your security, do not share this link with anyone else.
+
+Thank you for using our website.
+
+Sincerely, The Example Team",0
+"Subject: Invitation to our webinar on digital marketing
+
+Dear Mr. Lee,
+
+We are delighted to invite you to our upcoming webinar on digital marketing strategies for small businesses. This webinar is designed to help you learn how to use online tools and platforms to grow your business and reach more customers.
+
+The webinar will take place on Tuesday, November 23, at 10:00 a.m. EST. It will last for one hour and will include a live Q&A session with our expert speakers. You can register for the webinar by clicking on the link below:
+
+https://www.example.com/webinar-registration
+
+After you register, you will receive a confirmation email with the details on how to join the webinar. You will also receive a reminder email one day before the event.
+
+We hope you can join us for this informative and interactive session. If you have any questions or need assistance with the registration, please feel free to contact us at info@example.com.
+
+Thank you for your interest in our webinar.
+
+Sincerely, 
+Jane Smith Marketing Manager",0
+"Subject: Join us for a virtual happy hour Hi team,
+
+I hope this email finds you all well and healthy. I know it’s been a challenging and stressful time for everyone, so I wanted to invite you to join us for a virtual happy hour this Friday at 5:00 p.m.
+
+This is a casual and fun opportunity to catch up with each other, share some stories, and have some laughs. There is no agenda or formalities, just bring your favorite drink and join the Zoom meeting using the link below:
+
+https://us02web.zoom.us/j/123456789
+
+I hope you can make it and I look forward to seeing your smiling faces. Please let me know if you have any questions or concerns.
+
+Cheers, Alice Team Leader",0
+"CONGRATULATIONS: Your Microsoft 365 trial developer subscription has been renewed
+
+Congratulations!
+
+Your Microsoft 365 trial developer subscription has been renewed. Your new expiration date is 1/23/2044 (UTC).
+
+Note: Your Microsoft 365 subscription is for development purposes only. For more information, see the Microsoft 365 Developer Program FAQ.
+
+Visit your Microsoft 365 Developer Program dashboard to check your status and to find tools that add value to your subscription.
+
+Thank you!
+
+The Microsoft 365 Developer Program Team
+
+Follow us on Twitter @Microsoft365Dev and on Facebook
+
+Find reference solutions and code samples on Github. Ask questions on Stack Overflow.",0
+"Codeforces Round 868 (Div. 2)
+
+Welcome to the regular Codeforces round.
+
+I'm glad to invite you to take part in Codeforces Round 868 (Div. 2). It starts on Thursday, April, 27, 2023 14:35 (UTC). The contest duration is 2 hours. The allowed programming languages are C/C++, Pascal, Perl, Java, C#, Python (2 and 3), Ruby, PHP, Haskell, Scala, OCaml, D, Go, JavaScript and Kotlin.
+
+Do not miss the round!
+
+The round will be held on the rules of Codeforces, so read the rules (here and here) beforehand.
+
+It will be for newcomers or participants from the second division (non-rated users or those having less than 2100 rating points). Want to compete? Do not forget to register for the contest and check your handle on the registrants page. The registration will be closed 5 minutes before the contest.
+
+Register Now Here
+If you have any questions, please feel free to ask me on the pages of Codeforces.",0
+"
+Connecting to data
+
+Welcome to Deepnote!
+Just follow one of the methods below
+
+Importing files & connecting data sources
+In Deepnote, you can jump right into data exploration after connecting your notebook to a data source or importing existing files. Here's how:
+
+Upload an existing file - drag and drop local .ipynb notebooks, CSV files, and images into the right-hand sidebar and start querying.
+
+import data from GitHub or Google Drive - simply copy and paste your GitHub repo or connect to Google Drive to retrieve data.
+
+Connect to a cloud data source - tap into your data stack with native integrations for Postgres, S3, Snowflake, BigQuery, and dozens more. See all integrations.
+
+- Emma and the Deepnote team
+
+P.S. Need help connecting to a data source? Schedule an onboarding session here or just reply to this email.
+
+",0
+"Activate your Render account
+
+Hi there,
+
+Thank you for signing up for Render. Click on the link below to verify your email:
+
+https://dashboard.render.com/email-confirm/?token=122321321
+
+This link will expire in 24 hours. If you did not sign up for a Render account,
+you can safely ignore this email.
+
+Best,
+
+The Render Team",0
 "Subject: Reminder: Team meeting tomorrow
 
 Dear team,
@@ -329,6 +509,43 @@ Please come prepared with any updates or questions you may have. If you are unab
 
 Thank you,
 Jack",0
+"
+GitHub Actions scheduled workflow
+ 
+ 
+Scheduled workflows are disabled automatically after 60 days of repository inactivity. Learn more.
+
+You can prevent it from being disabled on the workflows page.
+
+You are receiving this because you are the owner of the repository.
+
+GitHub, Inc. 88 Colin P Kelly Jr Street San Francisco, CA 94107",0
+"Thank you for joining the waitlist to build with GPT-4!
+
+To balance capacity with demand, we'll be sending invites gradually over time.
+
+While we ramp up, invites will be prioritized to developers who have previously build with the OpenAI API. You can also gain priority access if you contribute model evaluations to OpenAI Evals that get merged, as this will help us improve the models for everyone.
+
+Once you're off the waitlist, you'll receive an email with further instructions on how to get started. We will process requests for the 8K and 32K models at different rates based on capacity, so you can expect to receive 8K access first.
+
+We appreciate your interest, and look forward to having you build with GPT-4 soon. In the meantime, we suggest getting started with gpt-3.5-turbo, the model powering ChatGPT.
+
+- The OpenAI Team
+
+P.S. You can also preview GPT-4 on chat.openai.com if you're a ChatGPT Plus subscriber. We expect to be severely capacity constrained, so there will be a usage cap for the model depending on demand and system performance.
+
+OpenAI, 548 Market St, PMB 97273, San Francisco, California 94104, United States",0
+"Twitter Support Team
+
+Hello,
+
+We received your appeal regarding your account. Please reply to this message and confirm that you have access to this email address. Once we receive your confirmation, we'll review the information you provided and will respond as soon as possible.
+
+We typically suspend accounts for violations of the Twitter Rules (https://twitter.com/rules) or Terms of Service (https://twitter.com/tos). Additionally, repeat violations may result in permanent account suspension.
+
+Thanks,
+
+Twitter",0
 "Subject: Invitation to dinner party
 
 Hello Steve,
@@ -638,6 +855,31 @@ Come to freecoin.com to earn your own money and transfer them to your pocket. We
 Sincerely,
 
 The Bitcoin Investment Co.",1
+"Subject: Last chance to save BIG on your dream vacation! 
+
+Hello,
+
+Are you ready to escape the cold and enjoy some sun, sand, and sea? If so, we have the perfect deal for you!
+
+For a limited time only, you can book a 7-day all-inclusive vacation package to Hawaii for only $999 per person! That's a savings of over 50% off the regular price!
+
+This amazing offer includes:
+
+Round-trip airfare from any major city in the US
+Accommodation at a 5-star beachfront resort
+Daily breakfast, lunch, and dinner
+Unlimited drinks and snacks
+Access to all resort facilities and activities
+Free airport transfers
+But hurry, this deal won’t last long! You must book by midnight tonight to secure your spot!
+
+To book your dream vacation, call us now at +1-800-555-1234 or visit our website:
+
+https://www.example.com/hawaii-vacation
+
+Don't let this opportunity pass you by! Call or click today and get ready to pack your bags!
+
+Best regards, The Travel Team",1
 "Subject: 100% Guaranteed Weight Loss
 
 Lose weight fast with our amazing weight loss program! Our proven system will help you lose up to 10 pounds per week without dieting or exercise. That's right, you can eat whatever you want and still lose weight.
@@ -646,6 +888,19 @@ We guarantee our program will work for you or your money back. Don't wait, start
 
 Best regards,
 Weight Loss Team",1
+"Subject: Congratulations! You have won a free iPhone 12!
+
+Hi there,
+
+You are one of the lucky winners of our monthly sweepstakes! You have won a brand new iPhone 12, the latest and most advanced smartphone on the market!
+
+To claim your prize, all you have to do is click on the link below and fill out a short survey. Hurry, this offer is only valid for 24 hours!
+
+https://www.example.com/free-iphone-12
+
+Don’t miss this chance to get your hands on the hottest gadget of the year! Click on the link now and enjoy your free iPhone 12!
+
+Cheers, The Example Team",1
 "Subject: Make money fast
 
 Dear friend,

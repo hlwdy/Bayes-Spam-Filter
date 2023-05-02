@@ -1,0 +1,11 @@
+Reset Your Password Here
+
+This link will expire in 24 hours.
+
+https://www.example.com/reset-password?token=123456789
+
+For your security, do not share this link with anyone else.
+
+Thank you for using our website.
+
+Sincerely, The Example Team

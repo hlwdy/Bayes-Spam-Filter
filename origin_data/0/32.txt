@@ -1,0 +1,19 @@
+Subject: Important: Reset Your Password
+
+Hi there,
+
+We noticed that someone tried to sign in to your account from an unfamiliar device. To protect your account, we have temporarily locked it until you can update your password.
+
+Please follow these steps to reset your password and regain access to your account:
+
+Go to https://www.example.com/account
+Click on "Forgot Password" and enter your email address.
+Check your inbox for an email with a link to reset your password.
+Create a strong and unique password that you have not used before.
+Sign in to your account with your new password and review your security settings.
+If you have any questions or need further assistance, please contact us at support@example.com or call us.
+
+We apologize for any inconvenience this may have caused you.
+
+Best regards,
+The Security Team

@@ -1,0 +1,19 @@
+
+Connecting to data
+
+Welcome to Deepnote!
+Just follow one of the methods below
+
+Importing files & connecting data sources
+In Deepnote, you can jump right into data exploration after connecting your notebook to a data source or importing existing files. Here's how:
+
+Upload an existing file - drag and drop local .ipynb notebooks, CSV files, and images into the right-hand sidebar and start querying.
+
+import data from GitHub or Google Drive - simply copy and paste your GitHub repo or connect to Google Drive to retrieve data.
+
+Connect to a cloud data source - tap into your data stack with native integrations for Postgres, S3, Snowflake, BigQuery, and dozens more. See all integrations.
+
+- Emma and the Deepnote team
+
+P.S. Need help connecting to a data source? Schedule an onboarding session here or just reply to this email.
+

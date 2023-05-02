@@ -1,0 +1,14 @@
+Codeforces Round 868 (Div. 2)
+
+Welcome to the regular Codeforces round.
+
+I'm glad to invite you to take part in Codeforces Round 868 (Div. 2). It starts on Thursday, April, 27, 2023 14:35 (UTC). The contest duration is 2 hours. The allowed programming languages are C/C++, Pascal, Perl, Java, C#, Python (2 and 3), Ruby, PHP, Haskell, Scala, OCaml, D, Go, JavaScript and Kotlin.
+
+Do not miss the round!
+
+The round will be held on the rules of Codeforces, so read the rules (here and here) beforehand.
+
+It will be for newcomers or participants from the second division (non-rated users or those having less than 2100 rating points). Want to compete? Do not forget to register for the contest and check your handle on the registrants page. The registration will be closed 5 minutes before the contest.
+
+Register Now Here
+If you have any questions, please feel free to ask me on the pages of Codeforces.

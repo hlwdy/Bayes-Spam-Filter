@@ -1,0 +1,17 @@
+CONGRATULATIONS: Your Microsoft 365 trial developer subscription has been renewed
+
+Congratulations!
+
+Your Microsoft 365 trial developer subscription has been renewed. Your new expiration date is 1/23/2044 (UTC).
+
+Note: Your Microsoft 365 subscription is for development purposes only. For more information, see the Microsoft 365 Developer Program FAQ.
+
+Visit your Microsoft 365 Developer Program dashboard to check your status and to find tools that add value to your subscription.
+
+Thank you!
+
+The Microsoft 365 Developer Program Team
+
+Follow us on Twitter @Microsoft365Dev and on Facebook
+
+Find reference solutions and code samples on Github. Ask questions on Stack Overflow.

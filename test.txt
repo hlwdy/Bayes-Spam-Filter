@@ -1,33 +1,28 @@
-Subject: Order Confirmation - #[Order Number]
+Subject: You've been chosen (and it's kind of a big deal) Hey there,
 
-Dear [Name],
+You know what's awesome? Being part of an exclusive club that gives you access to amazing deals, discounts, and perks.
 
-Thank you for your recent purchase from our online store. We are excited to inform you that your order has been received and is currently being processed.
+You know what's even more awesome? Being invited to join that club by someone who thinks you're awesome.
 
-Order Details:
+That's right, you've been chosen by one of our loyal customers to join our VIP program, and it's kind of a big deal.
 
-Order Number: #[Order Number]
-Order Date: [Order Date]
-Shipping Address: [Shipping Address]
+Why? Because our VIP program is not for everyone. It's only for the best of the best, the cream of the crop, the coolest of the cool.
 
-Product(s) Ordered:
+And you're one of them.
 
-[Product 1 Name], Quantity: [Product 1 Quantity], Price: [Product 1 Price]
-[Product 2 Name], Quantity: [Product 2 Quantity], Price: [Product 2 Price]
-Subtotal: [Subtotal]
-Shipping: [Shipping Cost]
-Tax: [Tax]
-Total: [Total]
+As a VIP member, you'll enjoy:
 
-Payment Details:
-Payment Method: [Payment Method]
-Card Number: [Last 4 Digits of Card Number]
-Expiration Date: [Card Expiration Date]
+20% off your first order and 10% off every order after that
+Free shipping on all orders, no minimums
+Early access to new products and collections
+Exclusive offers and surprises throughout the year
+A personal stylist who will help you find the perfect outfits for any occasion
+Sounds awesome, right?
 
-We will send you a separate email with tracking information once your order has shipped. If you have any questions or concerns about your order, please do not hesitate to contact us.
+But wait, there's more!
 
-Thank you for your business, and we look forward to serving you again in the future.
+If you join our VIP program today, you'll also get a free gift with your first order. It's a mystery gift, so we can't tell you what it is, but trust us, it's something you'll love.
 
-Sincerely,
+So what are you waiting for?
 
-The Online Store Team
+Click on the button below and join our VIP program now. This offer is only valid for 48 hours, so don't miss this chance to be part of something awesome.

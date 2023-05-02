@@ -1,0 +1,8 @@
+Your Recovery Code
+
+Your code is: 123456. Use it to disable your password and access your Telegram account.
+
+If you didn't request to restore access to your account, go to Telegram Settings > Devices (or Privacy & Security > Active Sessions) and terminate any sessions you don't recognize.
+
+Yours,
+The Telegram Team

@@ -1,0 +1,33 @@
+Subject: Order Confirmation - #[Order Number]
+
+Dear [Name],
+
+Thank you for your recent purchase from our online store. We are excited to inform you that your order has been received and is currently being processed.
+
+Order Details:
+
+Order Number: #[Order Number]
+Order Date: [Order Date]
+Shipping Address: [Shipping Address]
+
+Product(s) Ordered:
+
+[Product 1 Name], Quantity: [Product 1 Quantity], Price: [Product 1 Price]
+[Product 2 Name], Quantity: [Product 2 Quantity], Price: [Product 2 Price]
+Subtotal: [Subtotal]
+Shipping: [Shipping Cost]
+Tax: [Tax]
+Total: [Total]
+
+Payment Details:
+Payment Method: [Payment Method]
+Card Number: [Last 4 Digits of Card Number]
+Expiration Date: [Card Expiration Date]
+
+We will send you a separate email with tracking information once your order has shipped. If you have any questions or concerns about your order, please do not hesitate to contact us.
+
+Thank you for your business, and we look forward to serving you again in the future.
+
+Sincerely,
+
+The Online Store Team
